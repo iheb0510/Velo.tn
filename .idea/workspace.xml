@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8adc368-c581-4883-bbab-2a564b4b92f5" name="Default Changelist" comment="20/02/2020">
+      <change afterPath="$PROJECT_DIR$/src/LocationBundle/Resources/views/Default/all.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_09_02_2020_17_28_s.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_01_09_2020_23_07_s.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Controller/LocationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Controller/LocationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Controller/RegionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Controller/RegionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Entity/Location.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Entity/Location.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Entity/Region.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Entity/Region.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Resources/config/routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LocationBundle/Resources/views/Default/consulterregion.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/LocationBundle/Resources/views/Default/consulterregion.html.twig" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="318957a3-2cf7-4472-b5b2-b169f46b1ecb" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <path value="$PROJECT_DIR$/vendor/mgilet/notification-bundle" />
+      <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/easy-extends-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/notification-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/datagrid-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zenddiagnostics" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vendor/mrad/notifications-bundle" />
+      <path value="$PROJECT_DIR$/vendor/pusher/pusher-php-server" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1XZ6YrRJNIWK4X2iCfgsxbaXg6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="diff.base" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PIDEV\web\map" />
+      <recent name="C:\wamp64\www\PIDEV\src\LocationBundle\Resources\views\Default" />
+      <recent name="C:\wamp64\www\PIDEV\src\LocationBundle\Repository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PIDEV\src\livraisonBundle\Resources\views\livraison" />
+      <recent name="C:\wamp64\www\PIDEV\src\livraisonBundle\Resources\views\Default" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="s doctrine:generate:entity veloBundle" />
+      <command value="s doctrine:database:create" />
+      <command value="s doctrine:generate:entities livraisonBundle:livraison" />
+      <command value="s doctrine:generate:entities livraisonBundle:transporteur" />
+      <command value="s doctrine:generate:form" />
+      <command value="s doctrine:generate:form livraisonBundle:livraison" />
+      <command value="s generate:bundle" />
+      <command value="s doctrine:generate:form LocationBundle:region" />
+      <command value="s doctrine:generate:form LocationBundle:Magasin" />
+      <command value="s doctrine:generate:form LocationBundle:Location" />
+      <command value="php bin/console make:crud Produit" />
+      <command value="c make:crud Produit" />
+      <command value="s generate:controller" />
+      <command value="s fos:user:create" />
+      <command value="s fos:user:create iheb iheblaribi05@gmail.com password" />
+      <command value="s doctrine:generate:entity" />
+      <command value="s doctrine:schema:update --force" />
+      <command value="c dump-autoload" />
+      <command value="s cache:clear" />
+      <command value="s server:run" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8adc368-c581-4883-bbab-2a564b4b92f5" name="Default Changelist" comment="" />
+      <created>1581241319935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581241319935</updated>
+      <workItem from="1581241321250" duration="2963000" />
+      <workItem from="1581247759401" duration="702000" />
+      <workItem from="1581248489152" duration="3456000" />
+      <workItem from="1581265449784" duration="658000" />
+      <workItem from="1581333828019" duration="1747000" />
+      <workItem from="1581340313689" duration="21922000" />
+      <workItem from="1581448549048" duration="17647000" />
+      <workItem from="1581466791184" duration="27264000" />
+      <workItem from="1581588751223" duration="41162000" />
+      <workItem from="1581673421508" duration="801000" />
+      <workItem from="1581674260299" duration="262000" />
+      <workItem from="1581675224986" duration="2025000" />
+      <workItem from="1582048355623" duration="123182000" />
+      <workItem from="1582749156047" duration="36306000" />
+      <workItem from="1584179210031" duration="2709000" />
+      <workItem from="1584717896911" duration="629000" />
+      <workItem from="1586357780960" duration="1800000" />
+      <workItem from="1586718847968" duration="1912000" />
+      <workItem from="1586889292703" duration="2495000" />
+      <workItem from="1587864866211" duration="991000" />
+      <workItem from="1588196735970" duration="603000" />
+      <workItem from="1588290235012" duration="710000" />
+      <workItem from="1588291338177" duration="7851000" />
+      <workItem from="1588304367033" duration="4647000" />
+      <workItem from="1588455037230" duration="9848000" />
+      <workItem from="1588978888884" duration="31691000" />
+      <workItem from="1589687836192" duration="9288000" />
+      <workItem from="1597147755912" duration="1322000" />
+      <workItem from="1598992443230" duration="10981000" />
+      <workItem from="1599408736678" duration="2273000" />
+    </task>
+    <task id="LOCAL-00001" summary="20/02/2020">
+      <created>1582234233955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582234233955</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20/02/2020">
+      <created>1582234265150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582234265150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20/02/2020">
+      <created>1582234991691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582234991691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="20/02/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/02/2020" />
+  </component>
+</project>
